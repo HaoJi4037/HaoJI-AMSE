@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           RaisedButton(
-              child: Text("move to appBar"),
+              child: Text("move to Home and restart for return"),
               onPressed: () {
                 //路由跳转
                 Navigator.pushNamed(context, '/appBarDemo');

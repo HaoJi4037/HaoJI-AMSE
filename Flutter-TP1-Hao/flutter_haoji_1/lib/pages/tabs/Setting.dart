@@ -20,10 +20,10 @@ class _SettingPageState extends State<SettingPage> {
               title: Text("Here is setting page"),
             ),
             ListTile(
-              title: Text("Here is setting page"),
+              title: Text("You can give your opinion here"),
             ),
             ListTile(
-              title: Text("Here is setting page"),
+              title: Text("You can adjust the APP settings here"),
             )
           ],
         )
