@@ -31,7 +31,7 @@ class AppBarDemoPage extends StatelessWidget {
           )
         ],
       ),
-      body: Text('Here is AppBar'),
+      body: Text('Welcome to Home'),
     );
   }
 }
