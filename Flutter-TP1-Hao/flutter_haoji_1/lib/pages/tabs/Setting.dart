@@ -14,16 +14,16 @@ class _SettingPageState extends State<SettingPage> {
         Column(
           children: <Widget>[
             ListTile(
-              title: Text("我是一个文本"),
+              title: Text("Welcome to the setting page"),
             ),
             ListTile(
-              title: Text("我是一个文本"),
+              title: Text("Here is setting page"),
             ),
             ListTile(
-              title: Text("我是一个文本"),
+              title: Text("Here is setting page"),
             ),
             ListTile(
-              title: Text("我是一个文本"),
+              title: Text("Here is setting page"),
             )
           ],
         )

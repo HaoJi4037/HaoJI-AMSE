@@ -7,32 +7,31 @@ class AppBarDemoPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title:Text("AppBarDemoPage"), 
-        // backgroundColor: Colors.red, 
-        centerTitle:true,
+        title: Text("AppBarDemoPage"),
+        // backgroundColor: Colors.red,
+        centerTitle: true,
         leading: IconButton(
           icon: Icon(Icons.menu),
-          onPressed: (){
+          onPressed: () {
             print('menu');
           },
-        ), 
+        ),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.search),
-            onPressed: (){
+            onPressed: () {
               print('search');
             },
           ),
           IconButton(
             icon: Icon(Icons.settings),
-            onPressed: (){
+            onPressed: () {
               print('settings');
             },
           )
         ],
-
       ),
-      body: Text('1111'),
+      body: Text('Here is AppBar'),
     );
   }
 }
