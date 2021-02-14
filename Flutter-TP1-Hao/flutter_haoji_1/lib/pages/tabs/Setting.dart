@@ -14,7 +14,6 @@ class _SettingPageState extends State<SettingPage> {
         Column(
           children: <Widget>[
             ListTile(
-<<<<<<< HEAD
               title: Text("Welcome to the setting page"),
             ),
             ListTile(
@@ -25,26 +24,10 @@ class _SettingPageState extends State<SettingPage> {
             ),
             ListTile(
               title: Text("Here is setting page"),
-=======
-              title: Text("我是一个文本"),
-            ),
-            ListTile(
-              title: Text("我是一个文本"),
-            ),
-            ListTile(
-              title: Text("我是一个文本"),
-            ),
-            ListTile(
-              title: Text("我是一个文本"),
->>>>>>> a573b6d6e3c9c35bc809f5aba6ce5c8304e7d6ad
             )
           ],
         )
       ],
     );
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> a573b6d6e3c9c35bc809f5aba6ce5c8304e7d6ad
