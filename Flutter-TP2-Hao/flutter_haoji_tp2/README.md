@@ -1,6 +1,6 @@
-# flutter_haoji_tp2
+# flutter_puzzle
 
-A new Flutter project.
+A new Flutter application.
 
 ## Getting Started
 
